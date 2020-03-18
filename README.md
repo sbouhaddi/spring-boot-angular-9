@@ -1,1 +1,1 @@
-# spring-boot-angular-9
+# spring-boot-open-api-angular-backend
